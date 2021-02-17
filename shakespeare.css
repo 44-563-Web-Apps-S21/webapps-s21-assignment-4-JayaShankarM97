@@ -51,3 +51,11 @@ tr:nth-child(even){
     text-shadow: 2px 2px blueviolet;
     border: 3px solid black;
 }
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    display: inline;
+}
