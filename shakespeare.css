@@ -47,3 +47,7 @@ table{
 tr:nth-child(even){
     background-color: grey;
 }
+.name:hover{
+    text-shadow: 2px 2px blueviolet;
+    border: 3px solid black;
+}
