@@ -37,3 +37,13 @@
 .GRATIANO{
     color: deeppink;
 }
+table{
+    color:black;
+    text-align: center;
+    border: 5px solid black;
+    padding: 8px;
+    margin: 6px;
+}
+tr:nth-child(even){
+    background-color: grey;
+}
